@@ -1,0 +1,105 @@
+/* Mulai code Anda dari baris terakhir */
+
+* {
+  box-sizing: border-box;
+}
+
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p, div {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.clear {
+  clear: left;
+}
+
+.container {
+  max-width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+
+/*Header Section*/
+
+/*Teams Section*/
+
+/*Message Section*/ 
+.message { 
+  background-color: #010D1C; 
+  padding-top: 4%; 
+  padding-bottom: 4%; 
+  padding-right: 5%; 
+  padding-left: 5%; 
+} 
+ 
+.message-form{ 
+  max-width: 1170px; 
+  width: 100%; 
+  padding-left: 10px; 
+  margin: 0 auto; 
+  background-color: #FFFFFF; 
+  border-radius: 20px; 
+} 
+ 
+.section-title { 
+  padding-top: 15px; 
+  margin-left: 5px; 
+} 
+ 
+input[type=text], select, textarea { 
+  width: 35%; 
+  padding: 12px; 
+  border: 1px solid #ccc; 
+  border-radius: 4px; 
+  resize: vertical; 
+  background-color: #c4c4c4; 
+  margin: 5px; 
+} 
+ 
+.btn{ 
+  padding: 12px 24px; 
+  color: white; 
+  display: inline-block; 
+  opacity: 0.8; 
+  border-radius: 20px; 
+  text-align: center; 
+  margin-left: 5px; 
+  margin-bottom: 15px; 
+} 
+ 
+.btn:hover { 
+  opacity: 1; 
+} 
+ 
+.submit{ 
+  padding: 10px 30px; 
+  background-color: #228BEB; 
+  cursor: pointer; 
+  box-shadow: 0 7px #84a5c5; 
+} 
+ 
+.submit:active { 
+  position: relative; 
+  top: 7px; 
+  box-shadow: none; 
+} 
+ 
+.img { 
+  position: relative; 
+  float: right; 
+  top: -255px; 
+}
+/*Footer Section*/
+
+/* Ketik code Anda dibawah */
